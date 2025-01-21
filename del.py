@@ -1,0 +1,1 @@
+print("BIZ_PYTHON")
