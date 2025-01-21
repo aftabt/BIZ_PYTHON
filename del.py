@@ -1,1 +1,0 @@
-print("BIZ_PYTHON")
